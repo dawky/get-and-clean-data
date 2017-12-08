@@ -17,3 +17,4 @@ The annotations in the file also described the procedures I took to process the 
 
 #The CodeBook.md describes the variables, the data, and any work that were performed. It also listed the variable in my final dataset, please refer to the feature_info.txt in the original data set.
 
+#The cleandata file is the final clean data I produced
